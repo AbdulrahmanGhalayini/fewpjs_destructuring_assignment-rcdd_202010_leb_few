@@ -69,8 +69,12 @@ let v= "violet";
 let  name= "Kermit" ;
 let  color= "green" ;
 let  song= "The Rainbow Connection" ;
-let  job= "Host of The Muppet Show ;
+let  job= "Host of The Muppet Show ";
 let  partner= "Miss Piggy" ;
+let = "";
+let = "";
+let = "";
+let = "";
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
 
