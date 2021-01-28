@@ -76,8 +76,7 @@ let song_2= "Moving Right Along";
 let song_4= "I Hope That Something Better Comes Along";
 let k_job= "Host of The Muppet Show";
 let k_partner = "Miss Piggy";
-   
-   let indg= "indigo";
+let indg= "indigo";
    
 
     
