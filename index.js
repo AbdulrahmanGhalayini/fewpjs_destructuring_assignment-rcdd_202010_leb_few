@@ -69,7 +69,7 @@ let v= "violet";
 let  name= "Kermit" ;
 let  color= "green" ;
 let  song= "The Rainbow Connection" ;
-let  job= "Host of The Muppet Show ";
+let  job= "Host of The Muppet Show";
 let  partner= "Miss Piggy" ;
 
 let song_2= "Moving Right Along";
