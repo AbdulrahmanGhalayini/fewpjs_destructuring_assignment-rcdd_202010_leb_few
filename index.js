@@ -77,6 +77,11 @@ let song_4= "I Hope That Something Better Comes Along";
 let k_job= "Host of The Muppet Show";
 let k_partner = "Miss Piggy";
    
+   let indg= "indigo";
+   
+
+    
+    
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
 
 // Objects
