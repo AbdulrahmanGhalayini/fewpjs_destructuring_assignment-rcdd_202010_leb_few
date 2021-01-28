@@ -71,6 +71,7 @@ let  color= "green" ;
 let  song= "The Rainbow Connection" ;
 let  job= "Host of The Muppet Show ";
 let  partner= "Miss Piggy" ;
+
 let song_2= "Moving Right Along";
 let song_4= "I Hope That Something Better Comes Along";
 let k_job= "Host of The Muppet Show";
