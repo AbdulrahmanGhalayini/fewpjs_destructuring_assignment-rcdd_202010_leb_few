@@ -78,14 +78,3 @@ let k_job= "Host of The Muppet Show";
 let k_partner = "Miss Piggy";
 let indg= "indigo";
    
-
-    
-    
-// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
-
-// Objects
-
-// 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-
-
-// 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
