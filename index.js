@@ -71,11 +71,11 @@ let  color= "green" ;
 let  song= "The Rainbow Connection" ;
 let  job= "Host of The Muppet Show ";
 let  partner= "Miss Piggy" ;
-let = "";
-let = "";
-let = "";
-let = "";
-
+let song_2= "Moving Right Along";
+let song_4= "I Hope That Something Better Comes Along";
+let k_job= "Host of The Muppet Show";
+letk_partner = "Miss Piggy";
+   
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
 
 // Objects
